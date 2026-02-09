@@ -1,7 +1,7 @@
 # SwiftUI_ViewSizeWithoutDisplayingView
 A demo of Getting View Size without Displaying the View (iOS or MacOS)
 
-For more details, please refer to my blog [Little SwiftUI Tip: Get View Size without Displaying the View]().
+For more details, please refer to my blog [Little SwiftUI Tip: Get View Size without Displaying the View](https://medium.com/p/346225197828).
 
 ![](./demo.jpg)
 
